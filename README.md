@@ -2,6 +2,10 @@
 
 This repository contains a medical imaging pipeline designed to process Head CT scans and classify them into two categories: **Hemorrhage** and **No Hemorrhage**. The system uses a combination of spatial filters for noise reduction, CLAHE for contrast enhancement, and HOG (Histogram of Oriented Gradients) for feature extraction.
 
+## 🧠 Screenshot Example
+
+<img width="1919" height="1080" alt="preprocess" src="https://github.com/user-attachments/assets/cf81cf84-77da-4698-ae5d-0b0609c17857" />
+
 ## 🧠 Core Methodology
 
 The project follows a standard supervised machine learning workflow:
